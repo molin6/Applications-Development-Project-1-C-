@@ -1,0 +1,7 @@
+S:\iamolina\ISYS3393\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+S:\iamolina\ISYS3393\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+S:\iamolina\ISYS3393\Project1\Project1\bin\Debug\Project1.exe.config
+S:\iamolina\ISYS3393\Project1\Project1\bin\Debug\Project1.exe
+S:\iamolina\ISYS3393\Project1\Project1\bin\Debug\Project1.pdb
+S:\iamolina\ISYS3393\Project1\Project1\obj\Debug\Project1.exe
+S:\iamolina\ISYS3393\Project1\Project1\obj\Debug\Project1.pdb
